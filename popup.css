@@ -1,0 +1,115 @@
+.popup__body {
+    position: fixed;
+    background-image: url("../media/fispal_convite.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
+    border: none;
+    display: flex;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    flex-flow: column wrap;
+    align-items: center;
+    padding: 3vh 2vw;
+    justify-content: space-between;
+    z-index: 805;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px 0px rgba(0,0,0,0.6);
+}
+
+.popup__go-button {
+    background: linear-gradient(to left, #ffbd59, #ff914d);
+    padding: 1rem 1.2rem;
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 7px;
+    appearance: button;
+    text-decoration: none;
+    color: #000;
+    font-size: larger;
+    font-weight: bold;
+    font-variant: small-caps;
+    transition: all 0.25s ease;
+}
+
+.popup__go-button:hover {
+    background: linear-gradient(to left, #9e7538, #97552d);
+}
+
+.popup__close-button__wrapper {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+#popup__close-button {
+    overflow: hidden;
+    position: relative;
+    border: none;
+    padding: 0;
+    width: 2em; height: 2em;
+    border-radius: 50%;
+    background: transparent;
+    font: inherit;
+    color: #000000;
+    text-indent: 100%;
+    cursor: pointer;
+}
+
+#popup__close-button:focus {
+    outline: solid 0 transparent;
+    box-shadow: 0 0 0 2px #000000;
+}
+
+#popup__close-button:hover {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+#popup__close-button::before, #popup__close-button:after {
+    position: absolute;
+    top: 15%; left: calc(50% - 0.062em);
+    width: 0.125em; height: 70%;
+    border-radius: 0.125em;
+    transform: rotate(45deg);
+    background: currentcolor;
+    content: "";
+}
+
+#popup__close-button::after {
+    transform: rotate(-45deg);
+}
+
+.popup__screen-overlay, .zoom__screen-overlay {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-color: rgba(0,0,0,0.4);
+    backdrop-filter: blur(2px);
+    z-index: 800;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    -webkit-backdrop-filter: blur(40px);
+}
+
+@media screen and (max-width: 798px) {
+    .popup__body {
+        width: 90vw;
+        height: 90vw;
+        background-size: contain;
+        background-position: center;
+    }
+
+    .popup__go-button {
+        padding: 1vh 4.5vw;
+        margin-bottom: -6px;
+    }
+}

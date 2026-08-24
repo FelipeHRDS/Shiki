@@ -1,0 +1,8 @@
+100100|hashi-personalizado|Embalagem Fechada Personalizada - 1000 pares|160.00|3|480.00
+602901|sache-matsuya|Sachê de Shoyu Matsuya - 250 unidades|39.00|10|390.00
+304850|SK-shoyu|SK-Shoyu - 1000 unidades|59.00|1|59.00
+552210|PA-522|Tigela de Papel 540ml - 50 unidades|36.30|1|36.30
+552220|PP-C520|Tampa para Tigela de Papel 522 - 50 unidades|22.00|1|22.00
+607100|alga-blue-50|Alga Blue Manmaru 50 folhas 140g - unidade|29.00|40|1160.00
+605100|gengibre-10|Gengibre em Conserva Manmaru 1kg - caixa com 10 pacotes|165.00|1|165.00
+504700|refil-227g|Refil Volcano 227g - pacote com 4 unidades|44.00|1|44.00

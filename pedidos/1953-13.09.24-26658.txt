@@ -1,0 +1,13 @@
+101490|hashi-color-3-bc|Hashi Colorido BC - 3 Pares|6.80|40|272.00
+101590|hashi-color-5|Hashi Colorido - 5 Pares|5.87|50|293.50
+102090|hashi-premium-5|Hashi Premium com 5 pares|17.00|50|850.00
+500200|aguebashi-39|Aguebashi 39cm|2.98|100|298.00
+407120|espeto-no-7|Espeto com Nó 7cm - maço com 50 unidades|6.97|200|1394.00
+412120|espeto-no-12|Espeto com Nó 12cm - maço com 50 unidades|7.96|50|398.00
+415120|espeto-no-15|Espeto com Nó 15cm - maço com 50 unidades|8.50|50|425.00
+200130|C-1-DM|Colher para Sopa DM|5.10|50|255.00
+200150|C-1-BC|Colher para Sopa BC|5.10|50|255.00
+609600|laverland-seasalt|Alga Snack Sea Salt - 3 pacotes com 4,5g|12.75|60|765.00
+609700|laverland-wasabi|Alga Snack Wasabi - 3 pacotes com 4,5g|12.75|30|382.50
+607000|alga-gold-50|Alga Marinha Gold Manmaru 140g - 50 folhas|40.80|20|816.00
+521770|217|Sushi Mat Plástico|11.78|20|235.60

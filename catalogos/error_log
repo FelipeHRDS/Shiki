@@ -1,0 +1,971 @@
+[11-Jul-2024 14:57:08 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[11-Jul-2024 14:57:08 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[11-Jul-2024 16:10:58 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[11-Jul-2024 16:10:58 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Jul-2024 15:56:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Jul-2024 15:56:53 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Jul-2024 18:33:06 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Jul-2024 18:33:06 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Jul-2024 21:59:57 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Jul-2024 21:59:57 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[14-Jul-2024 20:02:46 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[14-Jul-2024 20:02:47 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[14-Jul-2024 21:02:10 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[14-Jul-2024 21:02:11 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 01:03:36 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 01:03:37 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 11:14:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 11:14:53 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 17:45:00 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 17:45:01 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 19:45:14 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Jul-2024 19:45:14 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[17-Jul-2024 18:55:41 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[17-Jul-2024 18:55:41 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 11:55:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UserClassManager::getTableName(), 1 passed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 12 and exactly 2 expected in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:50
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 50
+[18-Jul-2024 11:55:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UserClassManager::getTableName(), 1 passed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 12 and exactly 2 expected in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:50
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 50
+[18-Jul-2024 11:55:22 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UserClassManager::getTableName(), 1 passed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 12 and exactly 2 expected in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:50
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 50
+[18-Jul-2024 11:56:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UserClassManager::getTableName(), 1 passed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 12 and exactly 2 expected in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:50
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 50
+[18-Jul-2024 11:56:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UserClassManager::getTableName(), 1 passed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 12 and exactly 2 expected in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:50
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 50
+[18-Jul-2024 12:01:44 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 12:01:44 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 12:02:15 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 12:02:15 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 12:02:22 UTC] PHP Warning:  Undefined variable $conn in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 55
+[18-Jul-2024 12:02:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:46
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php(55): UserClassManager::tableExists()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#2 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#3 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 46
+[18-Jul-2024 12:10:13 UTC] PHP Warning:  Undefined variable $conn in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 55
+[18-Jul-2024 12:10:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:45
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php(55): UserClassManager::tableExists()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#2 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#3 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 45
+[18-Jul-2024 12:10:50 UTC] PHP Warning:  Undefined variable $conn in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 55
+[18-Jul-2024 12:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:45
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php(55): UserClassManager::tableExists()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#2 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#3 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 45
+[18-Jul-2024 12:10:50 UTC] PHP Warning:  Undefined variable $conn in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 55
+[18-Jul-2024 12:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:45
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php(55): UserClassManager::tableExists()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#2 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#3 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 45
+[18-Jul-2024 12:10:53 UTC] PHP Warning:  Undefined variable $conn in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 55
+[18-Jul-2024 12:10:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:45
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php(55): UserClassManager::tableExists()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#2 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#3 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 45
+[18-Jul-2024 12:12:24 UTC] PHP Warning:  Undefined variable $sql in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 55
+[18-Jul-2024 12:12:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php:45
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php(55): UserClassManager::tableExists()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(12): UserClassManager::getTableName()
+#2 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#3 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 45
+[18-Jul-2024 13:24:40 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 13:26:01 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 15:04:07 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 15:04:07 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 18:00:33 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 18:01:20 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 18:08:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 18:08:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 18:26:20 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 19:39:04 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 19:39:04 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 19:57:56 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 19:57:56 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 20:11:17 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[18-Jul-2024 20:11:18 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Jul-2024 14:49:32 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Jul-2024 16:58:14 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Jul-2024 16:58:14 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Jul-2024 17:01:13 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Jul-2024 17:01:13 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Jul-2024 19:01:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php(8): mysqli_connect()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(5): include_once('/home/t2ruvhmod...')
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php on line 8
+[19-Jul-2024 19:01:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php(8): mysqli_connect()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(5): include_once('/home/t2ruvhmod...')
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php on line 8
+[22-Jul-2024 14:02:47 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 14:02:47 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 14:02:53 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 14:02:53 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 14:53:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 14:53:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 20:04:05 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 20:04:05 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 20:05:26 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[22-Jul-2024 20:05:26 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 15:04:42 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 15:04:42 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 18:10:47 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 18:10:47 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 18:13:15 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 18:13:17 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 18:50:28 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 18:50:28 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 19:01:44 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 19:01:44 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 20:11:35 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Jul-2024 20:11:35 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 10:51:31 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 10:51:31 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 14:47:16 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 14:47:16 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:18:22 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:18:22 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:20:19 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:20:19 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:20:24 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:20:24 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:20:33 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[24-Jul-2024 20:20:33 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[25-Jul-2024 18:42:23 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[25-Jul-2024 18:42:24 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[25-Jul-2024 20:10:41 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[25-Jul-2024 20:10:41 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Jul-2024 13:49:26 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Jul-2024 13:49:26 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Jul-2024 19:16:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Jul-2024 19:16:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 16:48:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 16:48:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 16:48:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 16:48:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 16:48:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 16:48:22 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 18:32:16 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Jul-2024 18:32:16 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 12:39:18 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 12:39:20 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 15:36:04 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 15:36:04 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 15:36:09 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 15:36:09 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 17:56:26 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 17:56:26 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 19:27:39 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Jul-2024 19:27:39 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 01:03:36 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 01:03:36 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 13:24:36 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 13:24:36 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 16:21:15 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 16:21:15 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 18:10:11 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 18:10:11 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 19:38:58 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[31-Jul-2024 19:38:58 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[01-Aug-2024 16:03:41 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[01-Aug-2024 16:03:42 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[01-Aug-2024 18:00:34 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[01-Aug-2024 18:00:35 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[02-Aug-2024 14:09:20 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[02-Aug-2024 14:09:20 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[02-Aug-2024 15:41:19 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[02-Aug-2024 15:41:19 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[05-Aug-2024 16:36:27 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[05-Aug-2024 16:36:28 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[05-Aug-2024 17:40:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:40:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:40:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:40:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:40:58 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:06 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:06 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:08 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:10 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:10 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:22 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:22 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:40 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:40 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:42 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[05-Aug-2024 17:41:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 7
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key "users" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 11
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 25
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 26
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 27
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 28
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 29
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 30
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Undefined array key 0 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/components/userReplacement.php on line 31
+[05-Aug-2024 17:41:42 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:17
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(17): mysqli->prepare()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+
+Next Error: mysqli object is already closed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php:35
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(35): mysqli->close()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(39): getCatalogData()
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 35
+[06-Aug-2024 12:45:44 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[06-Aug-2024 12:45:44 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[06-Aug-2024 14:17:29 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[06-Aug-2024 14:17:29 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[06-Aug-2024 14:18:46 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[06-Aug-2024 14:18:47 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[06-Aug-2024 18:10:57 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[06-Aug-2024 18:10:57 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[07-Aug-2024 00:54:27 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[07-Aug-2024 00:54:28 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[07-Aug-2024 11:28:42 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[07-Aug-2024 11:28:43 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 11:03:29 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 11:03:29 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 13:33:42 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 13:33:42 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 17:05:59 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 17:05:59 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 17:38:47 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 17:38:48 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 18:15:31 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 18:15:31 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 21:34:43 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[08-Aug-2024 21:34:43 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[10-Aug-2024 12:49:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php(8): mysqli_connect()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(5): include_once('/home/t2ruvhmod...')
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php on line 8
+[10-Aug-2024 12:49:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php(8): mysqli_connect()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(5): include_once('/home/t2ruvhmod...')
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php on line 8
+[12-Aug-2024 17:06:23 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Aug-2024 17:06:23 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Aug-2024 18:10:03 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[12-Aug-2024 18:10:03 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:14:18 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:14:18 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:18:13 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:18:13 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:57:02 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:57:02 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:57:08 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:57:08 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:57:25 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 17:57:25 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:03:43 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:03:43 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:20:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:20:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:21:22 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:21:22 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:47:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[15-Aug-2024 19:47:21 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Aug-2024 13:27:28 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Aug-2024 13:27:28 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Aug-2024 16:51:59 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Aug-2024 16:51:59 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Aug-2024 16:52:30 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[19-Aug-2024 16:52:30 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[21-Aug-2024 16:22:04 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[21-Aug-2024 16:22:05 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[21-Aug-2024 18:50:35 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[21-Aug-2024 19:07:02 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Aug-2024 16:15:32 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Aug-2024 16:15:32 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Aug-2024 16:55:27 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[23-Aug-2024 16:55:27 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Aug-2024 17:22:27 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Aug-2024 17:22:27 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Aug-2024 19:03:36 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Aug-2024 19:03:36 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Aug-2024 20:35:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[26-Aug-2024 20:35:52 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[27-Aug-2024 17:26:10 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[27-Aug-2024 17:26:10 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[27-Aug-2024 19:14:40 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[27-Aug-2024 19:14:40 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[28-Aug-2024 17:43:00 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[28-Aug-2024 17:43:00 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 00:14:34 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 00:14:34 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 16:27:48 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 16:27:48 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 16:30:06 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 16:30:06 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 21:23:22 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[29-Aug-2024 21:23:22 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Aug-2024 01:12:20 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[30-Aug-2024 01:12:20 UTC] PHP Warning:  Undefined variable $userClass in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 39
+[02-Sep-2024 12:42:50 UTC] PHP Warning:  Undefined array key "userReplacementClass" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 20
+[02-Sep-2024 12:42:50 UTC] PHP Warning:  Undefined array key "userReplacementClass" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 20
+[06-Sep-2024 14:35:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php(8): mysqli_connect()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(5): include_once('/home/t2ruvhmod...')
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php on line 8
+[06-Sep-2024 14:35:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php(8): mysqli_connect()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(5): include_once('/home/t2ruvhmod...')
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php on line 8
+[19-Sep-2024 17:04:03 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:04:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:04:03 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:04:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:04:19 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:04:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:04:19 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:04:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:05:37 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:05:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:05:38 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:05:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:06:12 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:06:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:06:12 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:06:12 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:07:22 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:07:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:07:22 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:07:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:07:42 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:07:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:07:42 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:07:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 29
+[19-Sep-2024 17:09:34 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:09:34 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:09:40 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:09:41 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:09:43 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:09:43 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:09:57 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:09:57 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:09:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:10:51 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:10:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:10:51 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:10:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:11:23 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:11:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:12:24 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:12:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[19-Sep-2024 17:12:24 UTC] PHP Warning:  Undefined variable $userClassMappings in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php on line 15
+[19-Sep-2024 17:12:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 40
+[20-Sep-2024 11:00:55 UTC] PHP Warning:  Undefined array key "userId" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/session_variables.inc.php on line 5
+[20-Sep-2024 11:00:55 UTC] PHP Warning:  Undefined array key "userId" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/session_variables.inc.php on line 5
+[20-Sep-2024 11:02:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 18
+[20-Sep-2024 11:02:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 18
+[20-Sep-2024 11:02:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 18
+[20-Sep-2024 11:02:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 18
+[20-Sep-2024 11:14:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getQuery(), 0 passed in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/debug.php on line 35 and at least 3 expected in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/debug.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/debug.php(35): getQuery()
+#1 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/debug.php on line 8
+[20-Sep-2024 11:20:06 UTC] PHP Fatal error:  Cannot redeclare isUserClass() (previously declared in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/debug.php:23) in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 24
+[20-Sep-2024 11:21:03 UTC] PHP Fatal error:  Cannot redeclare getTableName() (previously declared in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/debug.php:23) in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 27
+[20-Sep-2024 11:23:53 UTC] PHP Warning:  Undefined array key "usersId" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 66
+[20-Sep-2024 11:23:53 UTC] PHP Warning:  Undefined array key "usersId" in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 66
+[20-Sep-2024 19:09:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php:8
+Stack trace:
+#0 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php(8): mysqli_connect()
+#1 /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/catalogo-fetch.php(5): include_once('/home/t2ruvhmod...')
+#2 {main}
+  thrown in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/includes/dbhc.inc.php on line 8
+[23-Sep-2024 12:02:08 UTC] PHP Parse error:  Unmatched '}' in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 90
+[23-Sep-2024 12:02:09 UTC] PHP Parse error:  Unmatched '}' in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 90
+[23-Sep-2024 12:02:11 UTC] PHP Parse error:  Unmatched '}' in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 90
+[23-Sep-2024 12:02:11 UTC] PHP Parse error:  Unmatched '}' in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 90
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:02:28 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:02:43 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:02:43 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:02:43 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:02:43 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:02:44 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:02:44 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:02:44 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:02:44 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:15 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:15 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:15 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:15 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:16 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:16 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:16 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:16 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:35 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:35 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:35 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:35 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:36 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:36 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:36 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:36 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:37 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:03:40 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 12:50:24 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:50:24 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:50:24 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 12:50:25 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 12:50:25 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 12:50:25 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 13:08:23 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 13:08:23 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 13:08:23 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 13:08:23 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 13:08:23 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 13:08:23 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:31 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:47 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:50 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:53 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:07:59 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:08:02 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:23:15 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:24:00 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:24:07 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:25:10 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:34:09 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $includeHomologado in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 80
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $hashiQuery in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 83
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $tableName in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 87
+[23-Sep-2024 14:34:30 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:35:37 UTC] PHP Parse error:  Unclosed '{' on line 65 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 102
+[23-Sep-2024 14:35:37 UTC] PHP Parse error:  Unclosed '{' on line 65 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 102
+[23-Sep-2024 14:35:52 UTC] PHP Parse error:  Unclosed '{' on line 65 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 102
+[23-Sep-2024 14:35:53 UTC] PHP Parse error:  Unclosed '{' on line 65 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 102
+[23-Sep-2024 14:35:53 UTC] PHP Parse error:  Unclosed '{' on line 65 in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 102
+[23-Sep-2024 14:36:16 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:36:16 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:39:22 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 14:39:23 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 16:56:19 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 16:56:19 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 17:51:48 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 17:51:49 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:49:50 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:49:50 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:49:53 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:49:53 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:44 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:45 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:48 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:49 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:52 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:52 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:53 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:53 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:55 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:50:55 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:51:00 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 19:51:00 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 20:02:33 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 20:02:34 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 20:02:36 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 20:02:36 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 20:02:39 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[23-Sep-2024 20:02:40 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[24-Sep-2024 12:52:16 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71
+[24-Sep-2024 12:52:16 UTC] PHP Warning:  Undefined variable $catalogPart in /home/t2ruvhmodzha/public_html/shiki.com.br/MyShiki/catalogos/userClassManager.php on line 71

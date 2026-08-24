@@ -1,0 +1,5 @@
+100100|hashi-personalizado|Embalagem Fechada Personalizada - 1000 pares|200.00|3|600.00
+224990|C249|Tigela 300ml Oceano|28.00|8|224.00
+608600|wasabi-po|Wasabi em Pó Manmaru 1kg - Unidade|55.00|10|550.00
+279790|B797-Midori|Prato Redondo Midori|36.00|8|288.00
+222190|B220-Midori|Prato para Hot Roll Midori|36.00|10|360.00

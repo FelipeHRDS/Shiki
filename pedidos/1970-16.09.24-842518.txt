@@ -1,0 +1,4 @@
+305750|SK-02|Embalagem Fuji - 100 unidades|98.00|4|392.00
+303850|SK-BG-67|Embalagem Nagoia - 50 unidades|140.88|2|281.76
+305350|SK-25|Embalagem Temaki - 100 unidades|72.41|2|144.82
+305050|SK-00|Embalagem Hot - 100 unidades|71.28|2|142.56

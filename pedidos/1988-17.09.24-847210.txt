@@ -1,0 +1,4 @@
+305750|SK-02|Embalagem Fuji - 100 unidades|98.00|6|588.00
+305050|SK-00|Embalagem Hot - 100 unidades|71.28|3|213.84
+305350|SK-25|Embalagem Temaki - 100 unidades|72.41|2|144.82
+309850|A695|Pote c/ Tampa Articulada 30ml - 700 unidades|126.00|1|126.00

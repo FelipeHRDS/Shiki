@@ -1,0 +1,12 @@
+407120|espeto-no-7|Espeto com Nó 7cm - maço com 50 unidades|6.97|20|139.40
+409120|espeto-no-9|Espeto com Nó 9cm - maço com 50 unidades|7.65|200|1530.00
+412120|espeto-no-12|Espeto com Nó 12cm - maço com 50 unidades|7.96|80|636.80
+412530|espeto-enf-12|Espeto com Enfeite 12cm (Kanji) - maço com 50 unidades|5.53|40|221.20
+415530|espeto-enf-15|Espeto com Enfeite 15cm (Kanji) - maço com 50 unidades|5.95|30|178.50
+410210|espeto-10x2,5|Espeto 10cm × 2,5mm - maço com 100 unidades|2.72|60|163.20
+401540|espeto-estrela-verde|Espeto Estrela Verde - maço com 50 unidades|7.65|60|459.00
+400740|AC007|Espeto Coração Vermelho - maço com 50 unidades|7.65|40|306.00
+400640|AC006|Espeto Surf Tribal - maço com 50 unidades|7.65|40|306.00
+412450|JS4|Espeto Balão Vermelho - maço com 50 unidades|7.65|20|153.00
+400580|palito-dente-500|Palito de Dente - com 500|5.53|40|221.20
+430411|espeto-30x4|Espeto 30cm × 4,0mm - maço com 40 unidades|4.42|30|132.60

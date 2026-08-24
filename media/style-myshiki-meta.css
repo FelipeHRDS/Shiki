@@ -1,0 +1,213 @@
+body {
+    background-image: url(./media/myshiki-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: brightness(0.5) hue-rotate(225deg);
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+.login-container {
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 20px 30px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+}
+
+.login-container__title__wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.login-container__title {
+    font-family: var(--font-regular);
+    font-weight: 800;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+a:hover {
+    color: #f55;
+    text-decoration: underline;
+}
+
+.input-group {
+    margin-bottom: 0.5rem;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+#loginForm {
+    width: 100%;
+}
+
+.label {
+    display: block;
+    margin-bottom: 8px;
+    color: #34495e;
+    align-self: flex-start;
+    margin-bottom: 0.5rem;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #9f34db;
+    color: white;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+    margin-top: 0.5rem;
+}
+
+button:hover {
+    background-color: #b92973;
+}
+
+.error-message {
+    color: #f44;
+}
+
+.success-message {
+    color: green;
+    background-color: white;
+}
+
+.white-message {
+    color: white;
+}
+
+.button-purple {
+    margin: 1rem 0;
+}
+
+.notification__icon {
+    height: 26px;
+    width: 26px;
+    margin-right: 4px;
+}
+
+.notification__body {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 8px;
+}
+
+.notification__progress {
+    position: absolute;
+    left: 4px;
+    bottom: 4px;
+    width: calc(100% - 8px);
+    height: 3px;
+    transform: scaleX(0);
+    transform-origin: left;
+    background: linear-gradient(to right, #313e2c, #aaec8a);
+    border-radius: inherit;
+    animation: progress 2.5s 0.3s linear;
+}
+
+.notification {
+    position: absolute;
+    width: max-content;
+    left: 0;
+    right: 0;
+    bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6px;
+    box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(30px);
+    opacity: 0;
+    visibility: hidden;
+    animation: fade-in 3s linear;
+}
+
+.notification-success {
+    background-color: #ecf0f1;
+    color: #aaec8a;
+}
+
+.notification-error {
+    background-color: #ecf0f1;
+    color: #ec8a8a;
+}
+
+.notification__icon {
+    height: 26px;
+    width: 26px;
+    margin-right: 4px;
+}
+
+.notification__progress {
+    position: absolute;
+    left: 4px;
+    bottom: 4px;
+    width: calc(100% - 8px);
+    height: 3px;
+    transform: scaleX(0);
+    transform-origin: left;
+    border-radius: inherit;
+    animation: progress 2.5s 0.3s linear;
+}
+
+.notification__progress-success {
+    background: linear-gradient(to right, #313e2c, #aaec8a);
+}
+
+.notification__progress-error {
+    background: linear-gradient(to right, #3e2c2c, #ec8a8a);
+}
+
+@keyframes fade-in {
+    5% {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+    95% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes progress {
+    to {
+        transform: scaleX(1);
+    }
+}

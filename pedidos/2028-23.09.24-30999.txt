@@ -1,0 +1,6 @@
+100100|hashi-personalizado|Embalagem Fechada Personalizada - 1000 pares|190.00|6|1140.00
+303650|SK-12-BT|Domburi 600ml - Base e Tampa - 100 unidades|127.88|1|127.88
+305550|SK-12-B|Domburi 600ml - Somente Base - 200 unidades|177.36|1|177.36
+304450|SK-40-BT|Teishoku - Base e Tampa - 100 unidades|200.00|1|200.00
+500290|bico-macarico-360|Bico de Maçarico 360°|60.00|1|60.00
+220290|A-202|Hashi Infantil de Silicone - unidade|7.00|30|210.00

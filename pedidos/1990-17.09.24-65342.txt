@@ -1,0 +1,7 @@
+521770|217|Sushi Mat Plástico|11.78|20|235.60
+503000|sushi-mat-red-m|Sushi Mat Redondo M|5.95|30|178.50
+502800|sushi-mat-quad-m|Sushi Mat Quadrado M|6.80|30|204.00
+611200|alga-gold-10|Alga Marinha Gold Manmaru 28g - 10 folhas|11.90|40|476.00
+101590|hashi-color-5|Hashi Colorido - 5 Pares|5.87|10|58.70
+500200|aguebashi-39|Aguebashi 39cm|2.98|10|29.80
+101690|hashi-color-1|Hashi Colorido - 1 Par|2.38|50|119.00

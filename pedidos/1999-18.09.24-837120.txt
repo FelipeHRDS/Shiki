@@ -1,0 +1,7 @@
+100100|hashi-personalizado|Embalagem Fechada Personalizada - 1000 pares|190.00|3|570.00
+303650|SK-12-BT|Domburi 600ml - Base e Tampa - 100 unidades|127.88|1|127.88
+303950|SK-13-BT|Domburi 750ml - Base e Tampa - 100 unidades|156.81|1|156.81
+306150|SK-13-B|Domburi 750ml - Somente Base - 200 unidades|229.98|1|229.98
+305950|SK-40-B|Teishoku SK-40 - Somente Base - 100 unidades|137.93|1|137.93
+578210|PA-782|Tigela de Papel 740ml - 50 unidades|72.25|4|289.00
+585000|PP-C850|Tampa para Tigela de Papel - 50 unidades|43.35|4|173.40

@@ -1,0 +1,6 @@
+305150|SK-0|Embalagem Dyo - 200 unidades|82.28|1|82.28
+305050|SK-00|Embalagem Hot - 100 unidades|71.28|3|213.84
+305750|SK-02|Embalagem Fuji - 100 unidades|98.00|2|196.00
+304350|SK-03|Embalagem Kioto - 100 unidades|129.37|1|129.37
+305350|SK-25|Embalagem Temaki - 100 unidades|72.41|3|217.23
+303850|SK-BG-67|Embalagem Nagoia - 50 unidades|140.88|2|281.76

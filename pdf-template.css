@@ -1,0 +1,79 @@
+table {
+	width: 100%;
+}
+
+#send-this {
+    display: flex;
+    flex-flow: column nowrap;
+    page-break-before: avoid;
+	page-break-inside: always;
+}
+
+/*aviso de geração de pedido*/
+#header-alert {
+    padding: 8px 16px;
+    border: 1px solid green;
+    border-radius: 2rem;
+    width: 75%;
+    align-self: center;
+    margin-bottom: 1rem;
+    margin-top: -4rem;
+    margin-left: 4rem;
+    margin-bottom: 2.5rem;
+    background-color: #a355c9!important;/*lightgreen*/
+}
+
+#header-alert p {
+    text-align: center;
+    color: white;
+}
+
+/*botão de finalizar pedido*/
+#submit-html-button {
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    background-color: #a355c9!important;/*lightgreen*/
+    font-size: 1.2rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    width: 30%;
+    align-self: center;
+}
+
+#submit-html-button:hover {
+    opacity: 0.8;
+}
+
+.choosedelivery__wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    margin-bottom: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.choosedelivery__wrapper > input {
+    border: 1px solid black;
+    border-radius: 1rem;
+    padding: 0.3rem 0.7rem;
+    width: 300px;
+}
+
+.old-price {
+    color: #939393;
+    text-decoration: line-through;
+}
+
+.new-price {
+    color: #84a750;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 798px) {
+	table {
+	    overflow-x: auto;
+	}
+}

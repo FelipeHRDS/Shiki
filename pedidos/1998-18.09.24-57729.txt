@@ -1,0 +1,3 @@
+101900|hashi-personalizado-gunmas|Gunma Sushi - Marubashi Personalizado - 1000 pares|220.00|12|2640.00
+502900|sushi-mat-quad-g|Sushi Mat Quadrado G|8.50|100|850.00
+100100|hashi-personalizado-mercli|Mercearia Liberdade - Hashi Personalizado - 1000 pares|190.00|3|570.00

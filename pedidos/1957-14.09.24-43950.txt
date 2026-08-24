@@ -1,0 +1,4 @@
+305050|SK-00|Embalagem SK-00 - Base e Tampa - 100 unidades|79.20|4|316.80
+305150|SK-0|Embalagem SK-0 - Base e Tampa - 200 unidades|91.42|4|365.68
+305750|SK-02|Embalagem SK-02 - Base e Tampa - 100 unidades|108.89|6|653.34
+304350|SK-03|Embalagem SK-03 - Base e Tampa - 100 unidades|143.74|8|1149.92

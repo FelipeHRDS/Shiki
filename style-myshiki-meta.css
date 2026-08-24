@@ -1,0 +1,118 @@
+body {
+    background-image: url(./media/myshiki-bg-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: brightness(0.5) hue-rotate(225deg);
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+.login-container {
+    background-color: #ecf0f1;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 20px 30px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+}
+
+.login-container__title__wrapper {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.login-container__title {
+    font-family: var(--font-regular);
+    font-weight: 800;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+a:hover {
+    color: #f55;
+    text-decoration: underline;
+}
+
+.input-group {
+    margin-bottom: 0.5rem;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+#loginForm {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.label {
+    display: block;
+    margin-bottom: 8px;
+    color: #34495e;
+    align-self: flex-start;
+    margin-bottom: 0.5rem;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #9f34db;
+    color: white;
+    padding: 12px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+    margin-top: 0.5rem;
+}
+
+button:hover {
+    background-color: #b92973;
+}
+
+.error-message {
+    color: #f44;
+}
+
+.success-message {
+    color: green;
+    background-color: white;
+}
+
+.white-message {
+    color: white;
+}
+
+.button-purple {
+    margin: 1rem 0;
+}

@@ -1,0 +1,6 @@
+510020|PA-1002|Tigela de Papel 1020ml - 50 unidades|73.70|12|884.40
+585000|PP-C850|Tampa para Tigelas 782/852/1002 - 50 unidades|32.39|12|388.68
+608500|farinha-panko|Farinha Panko Manmaru 1kg - unidade|14.50|20|290.00
+605100|gengibre-10|Gengibre em Conserva Manmaru 1kg - caixa com 10 pacotes|165.00|1|165.00
+602901|sache-matsuya|Sachê de Shoyu Matsuya - 250 unidades|39.00|4|156.00
+990400|kit-matsuya-shoyu|Kit Hashi + Guardanapo + Shoyu - 1000 unidades|390.00|1|390.00
