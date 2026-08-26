@@ -2,14 +2,16 @@
 
 session_start();
 
-$shoppingCartJSON = file_get_contents('php://input');
-$shoppingCart = json_decode($shoppingCartJSON, true);
+$data = json_decode(
+    file_get_contents("php://input"),
+    true
+);
 
 header('Content-Type: application/json');
 
-if (is_array($shoppingCart)) {
+if (is_array($data)) {
 
-    $_SESSION['shopping_cart'] = $shoppingCart;
+    $_SESSION['shopping_cart'] = $data;
 
     echo json_encode([
         "success" => true

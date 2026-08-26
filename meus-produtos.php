@@ -657,5 +657,16 @@ function toggleFilterPopup() {
 })();
 </script>
 
+<script>
+    const sessionCart = <?php echo json_encode($_SESSION['shopping_cart'] ?? []); ?>;
+
+    if (sessionCart.length > 0) {
+        localStorage.setItem(
+            "shopping_cart",
+            JSON.stringify(sessionCart)
+        );
+    }
+</script>
+
 </body>
 </html>

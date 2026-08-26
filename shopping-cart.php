@@ -176,7 +176,41 @@ if (isset($userClass)) {
         <?php echo '<script>
             document.addEventListener("DOMContentLoaded", () => {
                 shoppingCart = ' . json_encode($shopping_cart) . ';
+
+                const savedCart = localStorage.getItem("shopping_cart");
+
+                if (shoppingCart.length === 0 && savedCart) {
+
+                    fetch("./includes/restore-cart.php", {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json"
+                        },
+                        body: savedCart
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+
+                        if (data.success) {
+                            location.reload();
+                        }
+
+                    })
+                    .catch(error => {
+                        console.error("Erro ao restaurar carrinho:", error);
+                    });
+
+                
+                } else {
+
+                localStorage.setItem(
+                    "shopping_cart",
+                    JSON.stringify(shoppingCart)
+                );
+
                 createTable();
+                }
+                
             })';
         echo $shoppingCartScript; ?>
         <script>

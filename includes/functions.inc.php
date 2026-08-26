@@ -113,7 +113,7 @@ function loginUser($conn, $uid, $password) {
         $_SESSION["userType"] = $uidExists["userType"];
         $_SESSION["dispensaTransp"] = $uidExists["dispensa_transp"];
         $_SESSION["vendedor"] = $uidExists["vendedor"];
-        header("location: ../login.php");
+        header("location: ../restore-session.php");
     }
 }
 

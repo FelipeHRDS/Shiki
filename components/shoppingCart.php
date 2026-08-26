@@ -137,6 +137,11 @@ $shoppingCartScript = '
                 shoppingCart[rowIndex]["preco total"] = totalPrice.toFixed(2);
                 shoppingCart[rowIndex]["quantidade"] = quantity;
             }
+
+            localStorage.setItem(
+                "shopping_cart",
+                JSON.stringify(shoppingCart)
+            );
         
             totalValueCell.textContent = total.toFixed(2);
         
@@ -168,7 +173,40 @@ $shoppingCartScript = '
 
         }
         
-        function deleteRow() {
-            this.parentNode.submit();
+        async function deleteRow(event) {
+
+            event.preventDefault();
+
+            const form = this.parentNode;
+            const index = form.querySelector(".actionSubmit").value;
+
+            try {
+
+                const response = await fetch(
+                    "./includes/remove_item.inc.php?actionSubmit=" + index
+                );
+
+                const data = await response.json();
+
+                if (data.success) {
+
+                    shoppingCart = data.shopping_cart;
+
+                    localStorage.setItem(
+                        "shopping_cart",
+                        JSON.stringify(shoppingCart)
+                    );
+
+                    location.reload();
+                }
+
+            } catch (error) {
+
+                console.error(
+                    "Erro ao remover produto:",
+                    error
+                );
+
+            }
         }
         </script>';
