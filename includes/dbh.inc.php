@@ -1,9 +1,9 @@
 <?php
 
 $serverName = "localhost";
-$dbUsername = "root";
-$dbPassword = "";
-$dbName = "Catalogos";
+$dbUsername = "AdminMyShiki";
+$dbPassword = $_SERVER['DB_PASSWORD'];
+$dbName = "MyShiki";
 
 $conn = mysqli_connect($serverName, $dbUsername, $dbPassword, $dbName);
 

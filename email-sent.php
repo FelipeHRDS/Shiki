@@ -43,5 +43,9 @@ session_start();
             <a style="color: #9f34db;" href="./index.php">Clique aqui para voltar à tela principal.</a>
         </div>';
         } ?>
+
+        <script>
+            localStorage.removeItem("shopping_cart");
+        </script>
     </body>
 </html>

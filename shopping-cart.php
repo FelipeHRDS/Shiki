@@ -173,47 +173,62 @@ if (isset($userClass)) {
         }
 ?>
         </main>
-        <?php echo '<script>
+
+        <script>
+            <?php echo $shoppingCartScript; ?>
+        </script>
+        
+        <script>
             document.addEventListener("DOMContentLoaded", () => {
-                shoppingCart = ' . json_encode($shopping_cart) . ';
+                shoppingCart = <?php echo json_encode($shopping_cart); ?>;
 
-                const savedCart = localStorage.getItem("shopping_cart");
+                const savedCartRaw = localStorage.getItem("shopping_cart");
+                let savedCart = [];
 
-                if (shoppingCart.length === 0 && savedCart) {
+                // Tenta converter o conteúdo do localStorage
+                try {
+                    savedCart = savedCartRaw ? JSON.parse(savedCartRaw) : [];
+                } catch (e) {
+                    savedCart = [];
+                }
+
+                // Só tenta restaurar se o carrinho do PHP estiver vazio E o localStorage tiver itens reais
+                if (shoppingCart.length === 0 && Array.isArray(savedCart) && savedCart.length > 0) {
 
                     fetch("./includes/restore-cart.php", {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json"
                         },
-                        body: savedCart
+                        body: JSON.stringify(savedCart)
                     })
                     .then(response => response.json())
                     .then(data => {
-
                         if (data.success) {
                             location.reload();
+                        } else {
+                            // Se o servidor não restaurar, limpa o localStorage para evitar loop
+                            localStorage.removeItem("shopping_cart");
                         }
-
                     })
                     .catch(error => {
                         console.error("Erro ao restaurar carrinho:", error);
+                        localStorage.removeItem("shopping_cart");
                     });
 
-                
                 } else {
+                    // Atualiza o localStorage com o estado atual do carrinho
+                    localStorage.setItem(
+                        "shopping_cart",
+                        JSON.stringify(shoppingCart)
+                    );
 
-                localStorage.setItem(
-                    "shopping_cart",
-                    JSON.stringify(shoppingCart)
-                );
-
-                createTable();
+                    if (typeof createTable === "function") {
+                        createTable();
+                    }
                 }
-                
-            })';
-        echo $shoppingCartScript; ?>
-        <script>
+            });
+
             function showCartAlert() {
                 const logoutConfirmed = window.confirm('Ainda há itens no seu carrinho de compras. Tem certeza que deseja sair?');
                 if (logoutConfirmed) {

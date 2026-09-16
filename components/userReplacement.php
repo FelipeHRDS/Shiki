@@ -6,7 +6,7 @@ error_reporting(E_ALL);
 
 session_start();
 
-include_once '../includes/dbh.inc.php';
+include_once '../includes/dbhc.inc.php';
 
 function getUserData($conn, $userName) {
     
