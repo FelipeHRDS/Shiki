@@ -106,7 +106,7 @@
                             <label class="label" for="userclass">Classe:</label>
                             <select id="userclass" name="userclass">
                                 <option value="akiryo">Akiryo</option>
-                                <option value="atacado">Atacado</option>
+                                <option value="atacado">Tabela 3</option>
                                 <option value="apollo">Apollo</option>
                                 <option value="chinainbox">China In Box</option>
                                 <option value="choes">Choes</option>
@@ -153,7 +153,7 @@
                                 <option value="sushiemcasadistro">Sushi Em Casa Distro</option>
                                 <option value="sushito">Sushito</option>
                                 <option value="tab1">Tabela 1</option>
-                                <option value="tab13">Tabela 1 + 3</option>
+                                <option value="tab13">Tabela Mista</option>
                                 <option value="taisho">Taisho</option>
                                 <option value="temakeriaecia">Temakeria e Cia</option>
                                 <option value="temakifry">Temaki Fry</option>

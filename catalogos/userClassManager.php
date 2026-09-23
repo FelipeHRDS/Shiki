@@ -72,9 +72,19 @@ function getQuery($userClass, $tableName, $includeHomologado = false) {
         return "(
             $hashiQuery
             $catalogPart
-            UNION 
+
+            UNION
+
             SELECT productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
-            FROM restaurante
+            FROM tabela_1
+            WHERE productType IN ('Utilidade', 'Hashi', 'Melamina', 'Espeto')
+
+            UNION
+
+            SELECT productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
+            FROM tabela_3
+            WHERE productType IN ('Alimento', 'Embalagem')
+
         ) AS combined
         GROUP BY productCode";
     }
