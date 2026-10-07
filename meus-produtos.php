@@ -384,13 +384,21 @@
     <script src="./catalogos/searchHandlers.js"></script>
 
 <script>
-activateButton = (element) => {
-    let buttons = document.querySelectorAll('.catalog__side-bar__buttons__item');
-    buttons.forEach((button) => {
-        button.classList.remove('catalog__side-bar__buttons__panel-active-item');
+    activateButton = (element) => {
+        let buttons = document.querySelectorAll('.catalog__side-bar__buttons__header');
+        buttons.forEach((button) => {
+            button.classList.remove('catalog__side-bar__buttons__panel-active-item');
+        })
+        element.classList.toggle('catalog__side-bar__buttons__header-active');
+    }
+
+    let buttonsDois = document.querySelectorAll('.catalog__side-bar__buttons__header');
+
+    buttonsDois.forEach((button) => {
+        button.addEventListener("click", () => {
+            activateButton(button);
+        })
     })
-    element.classList.add('catalog__side-bar__buttons__panel-active-item');
-}
 
     activateSubcategoryButton = (element) => {
         let buttons = document.querySelectorAll('.catalog__side-bar__buttons__subcategory__toggle');
@@ -536,10 +544,6 @@ function toggleFilterPopup() {
         }
 </script>
 <script>
-/*
-  Código para persistir filtro no sessionStorage + restaurar ao voltar.
-  Coloque antes de </body> ou em um arquivo JS incluído na página.
-*/
 
 (function(){
   const STORAGE_KEY = 'catalogo-filtro-atual';
@@ -571,7 +575,6 @@ function toggleFilterPopup() {
 
     // se tu quiser refletir na url (opcional), usa replaceState para não poluir histórico
     try {
-      const qs = category ? '?f=' + encodeURIComponent(category) : location.pathname + location.search;
       history.replaceState({categoria: category}, '', category ? ('?' + new URLSearchParams({f: category}).toString()) : location.pathname);
     } catch(e){}
   };
@@ -588,9 +591,10 @@ function toggleFilterPopup() {
         realFilterElements(state.categoria);
         // Atualiza UI: marca botão ativo (se tiver activateButton)
         try {
-          // procura botão com onclick contendo a categoria (simplista) - adaptar se necessário
-          const btn = document.querySelector(`[onclick*="${state.categoria.replace(/'/g,'\\\'')}"]`);
-          if (btn && typeof activateButton === 'function') activateButton(btn);
+          // procura botão com onclick contendo a categoria e também adiciona a categoria na url
+            history.replaceState({categoria: state.categoria}, '', state.categoria ? ('?' + new URLSearchParams({f: state.categoria}).toString()) : location.pathname);
+            const btn = document.querySelector(`[onclick*="${state.categoria.replace(/'/g,'\\\'')}"]`);
+            if (btn && typeof activateButton === 'function') activateButton(btn);
         } catch(e){}
       }
     } catch(e){ console.warn('Erro restaurando filtro:', e); }

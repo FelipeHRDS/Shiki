@@ -2,8 +2,16 @@ const catalogGrid = document.getElementById("catalog__grid");
 const noneFoundAlert = document.getElementById("catalog__none-found-alert");
 const catalogoFetch = fetch("./catalogos/catalogo-fetch.php");
 
-const urlParams = new URLSearchParams(window.location.search);
-let productCategoryQuery = urlParams.get("category");
+// const urlParams = new URLSearchParams(window.location.search);
+// let productCategoryQuery = urlParams.get("category");
+
+const STORAGE_KEY = 'catalogo-filtro-atual';
+const SCROLL_KEY = 'catalogo-scroll';
+
+const raw = sessionStorage.getItem(STORAGE_KEY);
+
+const state = JSON.parse(raw);
+
 
 if (catalogGrid) {
     catalogoFetch
@@ -18,8 +26,17 @@ if (catalogGrid) {
                             catalogGrid.appendChild(product);
                         }
                     })
-                    if (productCategoryQuery) {
-                        filterElements(productCategoryQuery);
+                    if (state && state.categoria) {
+                        filterElements(state.categoria);
+                            try {
+                                const y = sessionStorage.getItem(SCROLL_KEY);
+                                if (y !== null) {
+                                    // usa setTimeout para garantir que renderização já ocorreu
+                                    setTimeout(()=> window.scrollTo(0, parseInt(y,10) || 0), 50);
+                                    // opcional: remover após restaurar pra não reaplicar sempre
+                                    sessionStorage.removeItem(SCROLL_KEY);
+                                }
+                                } catch(e){}
                     }
             } else {
                 console.error("Catalogo data is undefined.");
