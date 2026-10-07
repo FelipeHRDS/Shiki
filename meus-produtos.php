@@ -534,6 +534,9 @@ function toggleFilterPopup() {
                 }
             })
             
+            sessionStorage.removeItem("catalogo-filtro-atual");
+            history.replaceState({}, '', location.pathname);
+
             while (catalogGrid.firstChild) { 
                 catalogGrid.removeChild(catalogGrid.firstChild); 
             }
