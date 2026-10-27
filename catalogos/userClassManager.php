@@ -52,11 +52,14 @@ function getTableName($userClass, $userClassMappings) {
         'tabela_mista' => 'tabela_mista'
     ];
 
-    return $specialCases[$userClass] ?? getQuery($userClass, 'tabela_1');
+    $tableName = $specialCases[$userClass] ?? 'tabela_1';
+
+    return getQuery($userClass, $tableName);
+
 }
 
 function getHashiQuery() {
-    return "SELECT h.productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
+    return "SELECT NULL AS id, h.productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
         FROM users u
         JOIN hashi_assoc ha ON u.id = ha.user_id
         JOIN hashi_personalizado h ON ha.hashi_id = h.id
@@ -65,7 +68,7 @@ function getHashiQuery() {
 
 function getQuery($userClass, $tableName, $includeHomologado = false) {
     $hashiQuery = getHashiQuery();
-    $catalogPart = $includeHomologado ? "UNION SELECT productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit FROM $userClass " : "";
+    $catalogPart = $includeHomologado ? "UNION SELECT id, productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit FROM $userClass " : "";
     
     if ($userClass == 'tab13') {
 
@@ -75,13 +78,13 @@ function getQuery($userClass, $tableName, $includeHomologado = false) {
 
             UNION
 
-            SELECT productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
+            SELECT id, productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
             FROM tabela_1
             WHERE productType IN ('Utilidade', 'Hashi', 'Melamina', 'Espeto')
 
             UNION
 
-            SELECT productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
+            SELECT id, productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
             FROM tabela_3
             WHERE productType IN ('Alimento', 'Embalagem')
 
@@ -93,7 +96,7 @@ function getQuery($userClass, $tableName, $includeHomologado = false) {
         $hashiQuery
         $catalogPart
         UNION 
-        SELECT productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
+        SELECT id, productName, productCategory, productCode, productImage, productDimensions, productType, productMaterial, productPrice, productSystemCode, show_order, productSubCategory, active, is_promotion, correspondentProductName, correspondentProductCode, is_homologado, productUnit
         FROM $tableName
     ) AS combined
     GROUP BY productCode";

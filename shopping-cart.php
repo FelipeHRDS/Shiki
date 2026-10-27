@@ -50,6 +50,11 @@ if (isset($userClass)) {
             define("MINIMUM_VALUE", "900");
     }
 
+    switch ($userUid) {
+        case ("LOTUSRESTAURANTEmaster"):
+            define("MINIMUM_VALUE", "100");
+    }
+
     /*if ($userClass === "restki") {
         define("MINIMUM_VALUE", "1200");
     } else if ($auth->allowNoLowerLimit($userClass)) {

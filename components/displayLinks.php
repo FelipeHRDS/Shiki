@@ -9,7 +9,8 @@ function displayLinks() {
         ],
         'vendedor' => [
             'meus-produtos.php' => 'Produtos',
-            'historico.php' => 'Histórico de Pedidos'
+            'historico.php' => 'Histórico de Pedidos',
+            'users.php' => 'Usuários'
         ],
         'rep' => [
             'escolher-cliente.php' => 'Fazer pedido',

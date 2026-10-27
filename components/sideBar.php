@@ -9,8 +9,8 @@ $sideBar = '<div class="catalog__side-bar">
                         <div id="catalog__side-bar__buttons__wrapper">';
                         
                         if (isset($_SESSION['usersClass']) && 
-                            $_SESSION['usersClass'] != 'atacado' && 
-                            $_SESSION['usersClass'] != 'tab1' && 
+                            // $_SESSION['usersClass'] != 'atacado' && 
+                            // $_SESSION['usersClass'] != 'tab1' && 
                             $_SESSION['usersClass'] != 'fabiodarc' && 
                             $_SESSION['usersClass'] != 'tatianedasilva') {
                         $sideBar .= '<button id="catalog__side-bar__buttons__header-no-after-ms" class="catalog__side-bar__buttons__header" onclick="filterHomologados()">Itens Homologados</button>';
